@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contacts = () => {
     return (
-        <div className='form-field w-4/5 m-auto p-4 mt-5'>
+        <div className='form-field w-4/5 m-auto p-4 mt-12' id='contact'>
             <div className="heading text-left mb-4">
                 <h1 className='text-2xl text-left  text-white font-bold '>CONTACTS</h1>
                 <hr className='w-[50px] h-[2px]  mb-4' />

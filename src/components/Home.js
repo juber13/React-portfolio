@@ -17,7 +17,7 @@ const Home = () => {
     }, []);
 
     return (
-        <div className='container h-screen items-center gap-10 flex w-[80%] justify-between m-auto p-10'>
+        <div className='container h-screen items-center gap-10 flex w-[80%] justify-between m-auto p-10' id='home'>
             <div className="content flex flex-col gap-2 w-[40%] items-start">
                 <h1 className='text-8xl text-white'>Hello' I'm</h1>
                 <h2 className=' text-3xl text-[#FD4C57]'>A Front-end developer</h2>
